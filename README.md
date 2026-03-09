@@ -86,7 +86,7 @@ Student \| Aspiring Web Developer \| UI Enthusiast
 
 Add your repository link here:
 
-    https://github.com/SNEHA-J07/Taskify_Project
+    https://github.com/SNEHA-J07/Taskify_Project.git
 
 ------------------------------------------------------------------------
 
