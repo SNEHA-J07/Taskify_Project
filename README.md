@@ -33,8 +33,8 @@ achieve their goals effectively.
 
 ## ⚙️ Technologies Used
 
--   **HTML5** -- Structure of the website\
--   **CSS3** -- Styling and responsive layout\
+-   **HTML** -- Structure of the website
+-   **CSS** -- Styling and responsive layout
 -   **JavaScript** -- Dynamic functionality and task management logic
 
 ------------------------------------------------------------------------
