@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Add Task</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+<h1>➕Add New Task</h1>
+<nav>
+<a href="index.html">🏠Home</a>
+<a href="add.html">Add</a>
+<a href="view.html">📋View</a>
+<a href="about.html">About</a>
+</nav>
+</header>
+<br><br>
+<center>
+    <button onclick="toggleMode()">🌙Toggle Mode</button>
+</center>
+
+<div class="card">
+<p class="quote">
+💡 “Small progress every day leads to big results.”
+</p>
+<center>
+    <form id="taskForm">
+        <table>
+            <tr>
+                <td><input type="text" id="taskName" placeholder="📝 Enter Task" required></td>
+            </tr>
+            <tr>
+                <td><input type="date" id="date"></td>
+            </tr>
+            <tr>
+                <td>
+                    <select id="priority">
+                        <option>🔥High Priority</option>
+                        <option>⚡Medium Priority</option>
+                        <option>🌿Low Priority</option>
+                    </select>
+                </td>
+            </tr>
+            <button type="submit">✅Add Task</button> 
+    </table>
+    </form>
+</center>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
